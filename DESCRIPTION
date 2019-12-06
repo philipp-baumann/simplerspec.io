@@ -1,0 +1,14 @@
+Package: simplerspec.io
+Title: Read and write spectrometer files
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Philipp",
+           family = "Baumann",
+           role = c("aut", "cre"),
+           email = "baumann-philipp@protonmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: GNU
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
